@@ -1,4 +1,4 @@
-module github.com/localizely/localizely-client-go
+module github.com/bavdh/localizely-client-go
 
 go 1.13
 
